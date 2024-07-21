@@ -9,6 +9,7 @@ function App() {
       <BrowserRouter>
       <Route path="/" element={<Home />}/>
           </BrowserRouter>
+          <h1>ggh</h1>
     </div>
   );
 }
